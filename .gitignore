@@ -1,4 +1,6 @@
 bin/*
+bin/
+bin
 .idea/
 .gitattributes
 client/node_modules
